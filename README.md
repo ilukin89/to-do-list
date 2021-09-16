@@ -1,2 +1,2 @@
 # to-do-list
-JS To Do List
+JQuery To Do List
